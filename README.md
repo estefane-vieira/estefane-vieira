@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, eu sou a Estéfane Vieira!
 
-<!--
-**estefane-vieira/estefane-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hoje curso Análise e Desenvolvimento de Sistemas pelo SENAI;
+- 🌱 Conhecendo as ferramentas HTML5, CSS3, JavaScript, React, React-Native, MySOL;
+
+
+
+
+<div align="center">
+  <a href="https://github.com/estefane-vieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estefane-vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefane-vieira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
