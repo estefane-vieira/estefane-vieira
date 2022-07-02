@@ -27,6 +27,6 @@
   <a href="https://www.linkedin.com/in/est%C3%A9fane-vieira-766b32141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:sthev23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/estefane/estefane/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/estefane-vieira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
