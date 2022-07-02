@@ -4,6 +4,7 @@
 
 - 🔭 Hoje curso Análise e Desenvolvimento de Sistemas pelo SENAI;
 - 🌱 Conhecendo as ferramentas HTML5, CSS3, JavaScript, React, MySOL; 
+- :heart: Apaixonada por tecnologia;
 
 
 
