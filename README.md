@@ -3,8 +3,7 @@
 
 
 - 🔭 Hoje curso Análise e Desenvolvimento de Sistemas pelo SENAI;
-- 🌱 Conhecendo as ferramentas HTML5, CSS3, JavaScript, React, MySOL;
-- 
+- 🌱 Conhecendo as ferramentas HTML5, CSS3, JavaScript, React, MySOL; 
 
 
 
@@ -19,6 +18,8 @@
   <img align="center" alt="Estéfane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Estéfane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Estéfane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Estéfane-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Estéfane-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
 ##
