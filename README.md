@@ -2,7 +2,8 @@
 
 
 
-- 🔭 Hoje curso Análise e Desenvolvimento de Sistemas pelo SENAI;
+- 🔭 Hoje curso Segurança da Informação, pela Fatec;
+- 🌱 Multi-cloud AWS, Azure e Google;
 - 🌱 Conhecendo as ferramentas HTML5, CSS3, JavaScript, React, MySOL; 
 - :heart: Apaixonada por tecnologia;
 
