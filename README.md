@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje curso Segurança da Informação, pela Fatec;
-- 🌱 Multi-cloud AWS, Azure e Google;
+- 🌱 Multi-cloud AWS e Azure; Linux 
 - 🌱 Conhecimento nas ferramentas HTML5, CSS3, JavaScript, React, MySOL; 
 - :heart: Apaixonada por tecnologia;
 
